@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to mingzhen yang's slide!"
 ---
-Best message for slide 2:)
+This is an awesome slide!
 Use the left arrow to go back!
